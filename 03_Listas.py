@@ -13,4 +13,4 @@ lista.append('Aparecida')# add dado a lista
 
 print(len(lista)) #imprimindo o tamanho da lista
 
-print("\nfinalizando o codigo")
+print("\n finalizando o codigo\n")
